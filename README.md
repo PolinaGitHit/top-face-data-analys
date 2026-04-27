@@ -27,7 +27,6 @@
 ## Структура проекта
 
 ```text
-.
 ├── analys_prolongation.ipynb          # основной ноутбук с запуском расчёта
 ├── data/
 │   ├── financial_data.csv             # отгрузки по проектам
