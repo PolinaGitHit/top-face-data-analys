@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.vscode/
+
+# Локальные / секреты
+*.code-workspace
+
+/materials/
